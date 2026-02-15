@@ -32,7 +32,7 @@ Run the app:
 streamlit run app.py
 
 ## 📊 Dataset
-UCI Heart Disease Dataset
+UCI Heart Disease Dataset(you need to use encoded_heart.csv file from data/ folder to run streamlit)
 
 ## 🚀 Deployment
 The app can be deployed using Streamlit Cloud.
