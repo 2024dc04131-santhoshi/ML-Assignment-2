@@ -3,6 +3,8 @@
 ## 📌 Project Overview
 This project predicts the presence of heart disease using multiple Machine Learning models.
 
+## Code related to this project can be found in train_models.py or ML_Assignment2.ipynb
+
 ## 🧠 Models Used
 - Logistic Regression
 - Decision Tree
