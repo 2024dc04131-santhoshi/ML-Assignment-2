@@ -23,7 +23,7 @@ model_option = st.sidebar.selectbox(
 
 st.sidebar.header("Upload Dataset")
 uploaded_file = st.sidebar.file_uploader("Upload Test CSV File", type=["csv"])
-
+#you need to use encoded_heart.csv file from data/ folder
 if uploaded_file is not None:
 
     data = pd.read_csv(uploaded_file)
